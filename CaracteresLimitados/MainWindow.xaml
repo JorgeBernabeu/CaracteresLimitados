@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:CaracteresLimitados"
         mc:Ignorable="d"
         Title="CaracteresLimitados"
+        Icon="assets/128.ico"
         Height="462.624"
         Width="662.926">
     <Grid>
